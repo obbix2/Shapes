@@ -209,7 +209,7 @@ internal data class G2Continuity(
                     center = Point(width - topRight, topRight),
                     radius = topRight,
                     radiusScale = 1f / arcKScaleTR,
-                    startAngle = -PI.toFloat() * 0.5f + PI.toFloat() * 0.5f * (1f - arcFracBL) * 0.5f,
+                    startAngle = -PI.toFloat() * 0.5f + PI.toFloat() * 0.5f * (1f - arcFracTR) * 0.5f,
                     sweepAngle = PI.toFloat() * 0.5f * arcFracTR
                 )
 
